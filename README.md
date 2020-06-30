@@ -1,5 +1,5 @@
 # TicTacToe Against AI
-The classic game of tic tac toe against AI made using pygame and trained using minimax algorithm. The AIPlayer.txt file contains the best possible move to be played by AI for every possible state of the tic tac toe board which was obtained using minimax algorithm.
+The classic game of tic tac toe made using pygame and AI opponent trained using minimax algorithm. The AIPlayer.txt file contains the best possible moves which can be played by AI obtained using minimax algorithm for every possible state of the tic tac toe board.
 
 ### Installation and Setup
 
@@ -12,7 +12,6 @@ https://github.com/Frostday/Tic-Tac-Toe-Against-AI.git
 ```
 python TicTacToe.py
 ```
-* Now you can start playing
 
 ### Preview
 
